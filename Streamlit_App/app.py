@@ -9,7 +9,6 @@ import pandas as pd
 with open("xgb_model.pkl", "rb") as model_file:
     xgb_model = pickle.load(model_file)
 
-# Sample dataset (Replace with actual dataset)
 data = {
     "departure": ["USA", "Canada", "India", "Japan", "Germany", "Brazil", "France", "UK", "South Africa", "Australia"],
     "destination": ["Tokyo", "New York", "Paris", "Bangkok", "Sydney", "Toronto", "Singapore", "Dubai", "Cape Town", "Rome"],
@@ -26,7 +25,6 @@ month_price_adjustments = {
     11: 485, 12: 685  
 }
 
-# Function to predict travel cost and break down into flight, hotel, and activities charges
 def predict_travel_cost(departure, destination, departure_date, return_date, interests):
     try:
         departure_day, departure_month, _ = departure_date.split(" ")
@@ -44,7 +42,6 @@ def predict_travel_cost(departure, destination, departure_date, return_date, int
         return_month = months_dict[return_month]
 
         num_interests = len(interests)
-        # Updated activity charges calculation
         if num_interests == 1:
             activities_charges = 200
         elif num_interests == 2:
