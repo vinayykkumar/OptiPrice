@@ -1,0 +1,129 @@
+Oil Type,Company,Date,Selling Price,Volume Sold
+Brent Oil,ExxonMobil,20-03-2025,84.0823934,8296
+Brent Oil,Chevron,20-03-2025,85.5223934,8157
+Brent Oil,ConocoPhillips,20-03-2025,84.8023934,8226
+Brent Oil,Marathon Petroleum,20-03-2025,83.3623934,8368
+Brent Oil,ExxonMobil,21-03-2025,84.24012547,6020
+Brent Oil,Chevron,21-03-2025,85.68332554,5919
+Brent Oil,ConocoPhillips,21-03-2025,84.96172551,5969
+Brent Oil,Marathon Petroleum,21-03-2025,83.51852543,6072
+Brent Oil,ExxonMobil,24-03-2025,85.20919298,7896
+Brent Oil,Chevron,24-03-2025,86.66919298,7763
+Brent Oil,ConocoPhillips,24-03-2025,85.93919298,7829
+Brent Oil,Marathon Petroleum,24-03-2025,84.47919298,7965
+Brent Oil,ExxonMobil,25-03-2025,85.22933898,7635
+Brent Oil,Chevron,25-03-2025,86.68973892,7506
+Brent Oil,ConocoPhillips,25-03-2025,85.95953895,7570
+Brent Oil,Marathon Petroleum,25-03-2025,84.49913902,7701
+Brent Oil,ExxonMobil,26-03-2025,86.09204058,6883
+Brent Oil,Chevron,26-03-2025,87.5678406,6767
+Brent Oil,ConocoPhillips,26-03-2025,86.82994059,6825
+Brent Oil,Marathon Petroleum,26-03-2025,85.35414057,6943
+Brent Oil,ExxonMobil,27-03-2025,86.33684751,4815
+Brent Oil,Chevron,27-03-2025,87.81744748,4734
+Brent Oil,ConocoPhillips,27-03-2025,87.07714749,4774
+Brent Oil,Marathon Petroleum,27-03-2025,85.59654752,4857
+Brent Oil,ExxonMobil,28-03-2025,85.88490104,4815
+Brent Oil,Chevron,28-03-2025,87.35750099,4734
+Brent Oil,ConocoPhillips,28-03-2025,86.62120102,4774
+Brent Oil,Marathon Petroleum,28-03-2025,85.14860107,4857
+Brent Oil,ExxonMobil,31-03-2025,86.60691718,7491
+Brent Oil,Chevron,31-03-2025,88.09171714,7365
+Brent Oil,ConocoPhillips,31-03-2025,87.34931716,7427
+Brent Oil,Marathon Petroleum,31-03-2025,85.8645172,7556
+Crude Oil WTI,ExxonMobil,20-03-2025,78.6361523,71144
+Crude Oil WTI,Chevron,20-03-2025,77.95355228,71767
+Crude Oil WTI,ConocoPhillips,20-03-2025,79.31875233,70532
+Crude Oil WTI,Marathon Petroleum,20-03-2025,80.00135235,69930
+Crude Oil WTI,ExxonMobil,21-03-2025,78.63425249,49952
+Crude Oil WTI,Chevron,21-03-2025,77.9514525,50389
+Crude Oil WTI,ConocoPhillips,21-03-2025,79.31705248,49522
+Crude Oil WTI,Marathon Petroleum,21-03-2025,79.99985246,49099
+Crude Oil WTI,ExxonMobil,24-03-2025,79.57233394,62018
+Crude Oil WTI,Chevron,24-03-2025,78.88123393,62561
+Crude Oil WTI,ConocoPhillips,24-03-2025,80.26343394,61484
+Crude Oil WTI,Marathon Petroleum,24-03-2025,80.95453395,60959
+Crude Oil WTI,ExxonMobil,25-03-2025,79.45307689,64877
+Crude Oil WTI,Chevron,25-03-2025,78.76307689,65445
+Crude Oil WTI,ConocoPhillips,25-03-2025,80.14307689,64318
+Crude Oil WTI,Marathon Petroleum,25-03-2025,80.83307689,63769
+Crude Oil WTI,ExxonMobil,26-03-2025,80.17724949,65882
+Crude Oil WTI,Chevron,26-03-2025,79.48074948,66459
+Crude Oil WTI,ConocoPhillips,26-03-2025,80.87374951,65314
+Crude Oil WTI,Marathon Petroleum,26-03-2025,81.57024952,64756
+Crude Oil WTI,ExxonMobil,27-03-2025,80.46264079,53181
+Crude Oil WTI,Chevron,27-03-2025,79.7634408,53647
+Crude Oil WTI,ConocoPhillips,27-03-2025,81.16184077,52723
+Crude Oil WTI,Marathon Petroleum,27-03-2025,81.86104075,52272
+Crude Oil WTI,ExxonMobil,28-03-2025,79.83977593,53181
+Crude Oil WTI,Chevron,28-03-2025,79.14617592,53647
+Crude Oil WTI,ConocoPhillips,28-03-2025,80.53337593,52723
+Crude Oil WTI,Marathon Petroleum,28-03-2025,81.22697594,52273
+Crude Oil WTI,ExxonMobil,31-03-2025,81.6189331,38618
+Crude Oil WTI,Chevron,31-03-2025,80.90913306,38956
+Crude Oil WTI,ConocoPhillips,31-03-2025,82.32873313,38285
+Crude Oil WTI,Marathon Petroleum,31-03-2025,83.03853317,37957
+Natural Gas,ExxonMobil,20-03-2025,7.312656598,46354
+Natural Gas,Chevron,20-03-2025,7.352406597,46104
+Natural Gas,ConocoPhillips,20-03-2025,7.272906599,46608
+Natural Gas,Marathon Petroleum,20-03-2025,7.2331566,46864
+Natural Gas,ExxonMobil,21-03-2025,7.316895762,31231
+Natural Gas,Chevron,21-03-2025,7.356695762,31062
+Natural Gas,ConocoPhillips,21-03-2025,7.277095762,31402
+Natural Gas,Marathon Petroleum,21-03-2025,7.237295761,31575
+Natural Gas,ExxonMobil,24-03-2025,7.238415888,19692
+Natural Gas,Chevron,24-03-2025,7.277555889,19586
+Natural Gas,ConocoPhillips,24-03-2025,7.199275888,19799
+Natural Gas,Marathon Petroleum,24-03-2025,7.160135888,19907
+Natural Gas,ExxonMobil,25-03-2025,7.150747527,12538
+Natural Gas,Chevron,25-03-2025,7.189147526,12471
+Natural Gas,ConocoPhillips,25-03-2025,7.112347528,12605
+Natural Gas,Marathon Petroleum,25-03-2025,7.073947529,12674
+Natural Gas,ExxonMobil,26-03-2025,7.175309573,13151
+Natural Gas,Chevron,26-03-2025,7.213919573,13081
+Natural Gas,ConocoPhillips,26-03-2025,7.136699572,13222
+Natural Gas,Marathon Petroleum,26-03-2025,7.098089571,13294
+Natural Gas,ExxonMobil,27-03-2025,7.283517228,45354
+Natural Gas,Chevron,27-03-2025,7.323017228,45109
+Natural Gas,ConocoPhillips,27-03-2025,7.244017227,45601
+Natural Gas,Marathon Petroleum,27-03-2025,7.204517227,45851
+Natural Gas,ExxonMobil,28-03-2025,7.41716004,45353
+Natural Gas,Chevron,28-03-2025,7.45781004,45105
+Natural Gas,ConocoPhillips,28-03-2025,7.376510039,45603
+Natural Gas,Marathon Petroleum,28-03-2025,7.335860038,45855
+Natural Gas,ExxonMobil,31-03-2025,7.467855169,23164
+Natural Gas,Chevron,31-03-2025,7.50896517,23037
+Natural Gas,ConocoPhillips,31-03-2025,7.426745169,23292
+Natural Gas,Marathon Petroleum,31-03-2025,7.385635168,23422
+Heating Oil,ExxonMobil,20-03-2025,5.151105564,7665
+Heating Oil,Chevron,20-03-2025,5.128562563,7699
+Heating Oil,ConocoPhillips,20-03-2025,5.173648565,7632
+Heating Oil,Marathon Petroleum,20-03-2025,5.196191566,7599
+Heating Oil,ExxonMobil,21-03-2025,5.14576055,6950
+Heating Oil,Chevron,21-03-2025,5.12326455,6981
+Heating Oil,ConocoPhillips,21-03-2025,5.168256549,6920
+Heating Oil,Marathon Petroleum,21-03-2025,5.190752548,6890
+Heating Oil,ExxonMobil,24-03-2025,5.154203749,7821
+Heating Oil,Chevron,24-03-2025,5.131632748,7855
+Heating Oil,ConocoPhillips,24-03-2025,5.17677475,7787
+Heating Oil,Marathon Petroleum,24-03-2025,5.199345751,7753
+Heating Oil,ExxonMobil,25-03-2025,5.184992715,5981
+Heating Oil,Chevron,25-03-2025,5.162133714,6007
+Heating Oil,ConocoPhillips,25-03-2025,5.207851717,5955
+Heating Oil,Marathon Petroleum,25-03-2025,5.230710718,5928
+Heating Oil,ExxonMobil,26-03-2025,5.187932945,5695
+Heating Oil,Chevron,26-03-2025,5.165045944,5720
+Heating Oil,ConocoPhillips,26-03-2025,5.210819946,5670
+Heating Oil,Marathon Petroleum,26-03-2025,5.233706947,5645
+Heating Oil,ExxonMobil,27-03-2025,5.183495139,5505
+Heating Oil,Chevron,27-03-2025,5.16064814,5530
+Heating Oil,ConocoPhillips,27-03-2025,5.206342139,5481
+Heating Oil,Marathon Petroleum,27-03-2025,5.229189138,5457
+Heating Oil,ExxonMobil,28-03-2025,5.157553307,5505
+Heating Oil,Chevron,28-03-2025,5.134944307,5529
+Heating Oil,ConocoPhillips,28-03-2025,5.180162308,5481
+Heating Oil,Marathon Petroleum,28-03-2025,5.202771308,5457
+Heating Oil,ExxonMobil,31-03-2025,5.209860263,373
+Heating Oil,Chevron,31-03-2025,5.186714263,375
+Heating Oil,ConocoPhillips,31-03-2025,5.233006263,371
+Heating Oil,Marathon Petroleum,31-03-2025,5.256152263,370

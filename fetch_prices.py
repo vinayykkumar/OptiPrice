@@ -13,13 +13,20 @@ oil_tickers = {
 oil_data = []
 for oil, ticker in oil_tickers.items():
     data = yf.download(ticker, period="10d", interval="1d")
-    for date, row in data.iterrows():
-        oil_data.append([oil, date.strftime('%Y-%m-%d'), row["Close"], row["Volume"]])
+    
+    # Convert index (dates) to a column
+    data.reset_index(inplace=True)
+
+    # Extract only relevant columns
+    for _, row in data.iterrows():
+        closing_price = float(row["Close"]) if not pd.isna(row["Close"]) else None
+        volume_sold = float(row["Volume"]) if not pd.isna(row["Volume"]) else None
+        oil_data.append([oil, row["Date"].strftime('%Y-%m-%d'), closing_price, volume_sold])
 
 # Convert to DataFrame
 df = pd.DataFrame(oil_data, columns=["Oil Type", "Date", "Closing Price", "Volume Sold"])
 
 # Save to CSV
-df.to_csv("oil_prices_last_10_days.csv", index=False)
+df.to_csv("oil_prices_last_10_days_cleaned.csv", index=False)
 
-print("✅ Data saved to oil_prices_last_10_days.csv")
+print("✅ Data saved to oil_prices_last_10_days_cleaned.csv")
