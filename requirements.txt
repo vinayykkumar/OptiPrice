@@ -1,0 +1,7 @@
+streamlit
+crewai
+langchain-community
+xgboost
+pandas
+numpy
+duckduckgo-search
