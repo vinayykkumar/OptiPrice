@@ -65,4 +65,4 @@ The E-commerce Price Predictor is a Streamlit application designed to predict op
 
 ## Contact
 
-For questions or support, please contact [Your Name] at [Your Email]. 
+For questions or support, please contact Padharla Raghavendra Kumar at raghavendrapadharla@gmail.com 
